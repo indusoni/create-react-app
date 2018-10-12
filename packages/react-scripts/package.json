@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "@indusoni/react-scripts",
   "version": "1.2.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": "indusoni/create-react-app",
